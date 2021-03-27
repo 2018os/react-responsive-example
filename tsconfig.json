@@ -20,7 +20,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": [
-    "src"
-  ]
+  "include": [ "src" , "src/utils/theme.ts", "src/utils/DefaultStyle.tsx"  ]
 }
