@@ -5,6 +5,11 @@ const theme = {
     blue: "#007ce0",
     navy: "#004175",
   },
+  sizes: {
+    desktop: "1024px",
+    tablet: "600px",
+    mobile: "400px",
+  },
 };
 
 export default theme;
